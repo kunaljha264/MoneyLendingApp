@@ -15,6 +15,7 @@ This repository contains a set of APIs to manage user signup, login, user data r
     - [4. Borrow Money API](#4-borrow-money-api)-
   - [Folder Structure](#folder-structure)
   - [Setup and Installation](#setup-and-installation)
+  - [Screenshots](#screenshots)
   
  
 
@@ -148,8 +149,6 @@ MoneyLendingApp
    ```bash
    npm start
    ```
-
-
 
 ## Screenshots
 SignUp
