@@ -152,4 +152,38 @@ MoneyLendingApp
 
 
 ## Screenshots
+SignUp
+
+![image](https://github.com/user-attachments/assets/3d38ad59-81aa-4017-996d-157cf4e16fe7)
+![image](https://github.com/user-attachments/assets/eeea9552-a30f-4226-adce-2b842ba11626)
+![image](https://github.com/user-attachments/assets/aeffa556-d398-4349-8515-9723cc1e6fc2)
+![image](https://github.com/user-attachments/assets/5c8f8844-e345-4a77-9cd7-55c2441e5d3b)
+![image](https://github.com/user-attachments/assets/111854ba-8b77-430d-97b3-2ec13c52463a)
+
+LogIn
+
+![image](https://github.com/user-attachments/assets/2e0d8cd9-297e-419c-805c-f59c722bc7ed)
+![image](https://github.com/user-attachments/assets/4ee936d0-2e76-483e-b342-d4cfb219473e)
+![image](https://github.com/user-attachments/assets/982e85dd-4178-4ff7-b8d0-a336a69d295e)
+
+getUser
+
+![image](https://github.com/user-attachments/assets/3ecafbf4-9785-4c95-8f62-fbe4e4e25efd)
+![image](https://github.com/user-attachments/assets/201ad4d6-bfb2-499b-940f-cd46e1b1a30c)
+
+borrow
+
+![image](https://github.com/user-attachments/assets/5d476302-3c9b-4440-8673-585e990a5a57)
+![image](https://github.com/user-attachments/assets/a670eec1-0604-4134-b134-bb5750fc1193)
+![image](https://github.com/user-attachments/assets/18717cd7-5993-431f-818e-4a9f36678444)
+
+
+
+
+
+
+
+
+
+
 
